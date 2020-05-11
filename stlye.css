@@ -1,0 +1,241 @@
+@font-face {
+    font-family: 'Nunito-Bold';
+    src: url(myproject\mysite\fonts);
+}
+
+span.fa.fa-caret-down {
+    font-size: 1em;
+    color: #fff;
+    background-color: rgb(0, 207, 189);
+    padding: 0.5em 2em;
+    border-radius: 5px 5px 0 0;
+    margin-top: 2.5em;
+    }
+
+.name {
+    text-align: center;
+    font-family: 'Stylish';
+    font-size: 26px;
+    padding: 0 0;
+    margin: 4px 0;
+    margin-right: 0px
+}
+
+.email {
+    color: #1189ef;
+}
+
+h3  {
+    padding: 14px 0px;
+    margin: 29px 0;
+    margin-bottom: 36px
+    
+}
+h4 {
+    font-size: 25px;
+}
+
+
+#pg {
+
+    width: 521px;
+    padding-left: 0px;
+    padding-right: 30px;
+}
+
+#sk{
+    text-align: center;
+}
+
+.progress-bar{
+    background-color: #b3deb6;
+    box-shadow: none;
+}
+
+.progress-bar-success {
+    background-color: rgb(130, 221, 136);
+}
+
+.progress-bar-info {
+    background-color: bisque;
+}
+
+.progress-bar-warning {
+    background-color: #74e4d2;
+}
+
+.progress-bar-danger {
+    background-color: #c3baba;
+}
+
+.progress-bar-aws {
+    background-color: #e897a8;
+}
+
+
+.fa-pencil {
+    font-size: 2em;
+    color: #C6D9C7;
+    border-radius: 50px;
+    border: 2px solid;
+    padding: 1em;
+    height: 95px
+
+}
+
+h5 {
+    margin-top: 18px;
+    font-family: 'Libre Caslon Text', serif;
+    margin-top: 26px;
+    
+}
+
+.fa-server {
+    font-size: 2em;
+    color: #C6D9C7;
+    border-radius: 50px;
+    border: 2px solid;
+    padding: 1em;
+    height: 98px;
+    display: inline-block;
+}
+
+.fa-desktop {
+    font-size: 2em;
+    color: #C6D9C7;
+    border-radius: 50px;
+    border: 2px solid;
+    padding: 1em;
+    height: 98px;
+    display: inline-block;
+}
+
+.notes {
+    text-align: center;
+}
+
+.sn {
+    font-size: 1em;
+    color: white;
+    border-radius: 50px;
+    padding: 1em;
+    height: 82px;
+    display: inline-block;
+    background-color: #576b95;
+    text-align: center;
+    line-height: 18px;
+    padding-top: 25px;
+    vertical-align: middle;
+}
+
+.sn1 {
+    border-radius: 50px;
+    border: 2px solid;
+    padding: 1em;
+    height: 82px;
+    display: inline-block;
+    display: inline-block;
+    background-color: #ffffff;
+    text-align: center;
+    line-height: 18px;
+    color: rgba(29,161,242,1.00);
+    padding-bottom: 48px;
+    padding-top: 23px;
+    padding-left: 29px;
+    padding-right: 22px;
+    margin-left: 0px;
+    vertical-align: super;
+}
+
+.sn2 {
+    margin-top: 32px;
+    border-radius: 21px;
+    color: white;
+    padding: 1em;
+    height: 73px;
+    width: 71px;
+    /* vertical-align: middle; */
+    text-align: center;
+    padding-left: 22px;
+    padding-top: 21px;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  
+}
+
+.f1{
+    vertical-align: -webkit-baseline-middle;
+    margin-left: 17px;
+}
+
+.f2{
+    vertical-align: super;
+    margin-left: 17px;
+}
+
+.f3{
+    vertical-align: super;
+    margin-left: 17px
+}
+
+
+.contact-section{
+    padding: 4em 0;
+}
+
+
+
+.text {
+    width: 100%;
+    padding: 1.5em 1em;
+    border: 1px solid #7ca17f;
+    margin-bottom: 1.2em;
+    color: #Aac8ac;
+    outline: none;
+    background: transparent;
+}
+
+.msg{
+    width: 100%;
+    height: 260px;
+    border: 1px solid #7ca17f;
+    font-size: 1.1em;
+    margin-bottom: 1.2em;
+    color: #Aac8ac;
+    outline: none;
+    background: transparent;
+    font-weight: 600;
+    padding: 1.5em 1em;
+    
+}
+
+ .button {
+    background: #393b3a;
+    padding: 1em 2em;
+    border: none;
+    font-size: 1em;
+    margin: 0.5em 0 0 0;
+    color: #fff;
+    outline: none;
+    font-weight: 600;
+    border-radius: 5px;
+    float: right;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
+
+
+.contact-section {
+    background-color: #deecdf;
+    margin-top: 46px;
+}
+
+
+.google-map iframe{
+    width: 100%;
+    height: 500px;
+    border: 0;
+}
